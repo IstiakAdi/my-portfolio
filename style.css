@@ -69,7 +69,7 @@ span {
     margin-left:50px
 }
 .dream-area {
-    background-image: url("images/dream-bg.png");
+    background-image: url("Images/dream-bg.png");
     background-repeat: no-repeat;
     height: 500px;
     background-position: right;
@@ -91,7 +91,7 @@ span {
     text-justify: auto;
 }
 .experience-area {
-    background-image: url("images/exp-bg.png");
+    background-image: url("Images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     height: 345px;
